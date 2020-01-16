@@ -1,36 +1,14 @@
-## Welcome to Zhao_Zirui's Space
+## Zhao_Zirui's Space
 
 你可是前往 [洛谷](https://luogu.com.cn) 和 [Codeforces](https://codeforces.com/)
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这是Zhao_Zirui的空间，我会不定期写些题解
+（我好弱啊，我只是ZJ的菜鸡）
 
-```markdown
-Syntax highlighted code block
+### Index
 
-# Header 1
-## Header 2
-### Header 3
+#### Solution
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ynzzr/ynzzr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
