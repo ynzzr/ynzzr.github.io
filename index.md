@@ -22,8 +22,9 @@
 ### Solution
 
 ### 2020-1-16
-#### CF839D Winter is here 
-     数论 
+
+#### CF839D Winter is here  数论 
+
 [阅读全文](https://www.cnblogs.com/zzrblogs/p/12202026.html/)
 
 ### OJ
@@ -40,6 +41,6 @@
 
 #### Friend—— [Zhk大佬](https://flyforever241.github.io/) %%%
 
-
+-----------------------------------------------------------------
 #### 愿你走出半生，归来仍是少年——ZZR
 
