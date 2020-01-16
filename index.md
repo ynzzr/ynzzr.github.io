@@ -9,7 +9,13 @@
 
 ### Index
    1.Solution
+   
+      1.a 2020
+      
+      1.b 2019
+      
    2.OJ
+   
    3.Friends
 
 
@@ -21,9 +27,13 @@
 
 ### OJ
 [洛谷](https://www.luogu.com.cn/)
+
 [Codeforces](https://codeforces.com/)
+
 [LibreOJ](https://loj.ac/)
+
 [POJ](https://poj.org/) 
+
 [牛客](https://www.nowcoder.com/)
 
 
