@@ -1,6 +1,6 @@
 ## Zhao_Zirui's Space
 
-你可是前往 [洛谷](https://luogu.com.cn) 和 [Codeforces](https://codeforces.com/)
+你可是前往 [洛谷](https://www.luogu.com.cn) 和 [Codeforces](https://codeforces.com/)
 
 ### About
 
